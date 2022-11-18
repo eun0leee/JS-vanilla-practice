@@ -5,18 +5,18 @@
 * [출제자 구현 사이트](https://www.vanillajavascriptprojects.com/)
 
 ## Practice List
-[] Color Flipper
-[] Counter
-[] Reviews
-[] Navbar
-[] Sidebar
-[] Modal
-[] Questions
-[] Menu
-[] Video
-[] Scroll
-[] Tabs
-[] Countdown Timer
-[] Lorem Ipsum
-[] Grocery Bud
-[] Slider
+[ ] Color Flipper
+[ ] Counter
+[ ] Reviews
+[ ] Navbar
+[ ] Sidebar
+[ ] Modal
+[ ] Questions
+[ ] Menu
+[ ] Video
+[ ] Scroll
+[ ] Tabs
+[ ] Countdown Timer
+[ ] Lorem Ipsum
+[ ] Grocery Bud
+[ ] Slider
